@@ -65,15 +65,15 @@
             this.config.logo = {
               default: {
                   grey:{
-                      logo:  '/example/image/logo_grey.png',
+                      logo:  'http://wilee.me/dashboard/example/image/logo_grey.png',
                       css:'theme-grey'
                   },
                   dark:{
-                      logo:  '/example/image/logo_dark.png',
+                      logo:  'http://wilee.me/dashboard/example/image/logo_dark.png',
                       css:'theme-dark'
                   },
                   red:{
-                      logo:  '/example/image/logo_red.png',
+                      logo:  'http://wilee.me/dashboard/example/image/logo_red.png',
                       css:'theme-red'
                   }
               },
