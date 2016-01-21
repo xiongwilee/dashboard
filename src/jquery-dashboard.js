@@ -65,15 +65,15 @@
             this.config.logo = {
               default: {
                   grey:{
-                      logo:  'http://shop.meilishuo.com/shop/static/img/common/logo_grey.png',
+                      logo:  '/example/image/logo_grey.png',
                       css:'theme-grey'
                   },
                   dark:{
-                      logo:  'http://shop.meilishuo.com/shop/static/img/common/logo_dark.png',
+                      logo:  '/example/image/logo_dark.png',
                       css:'theme-dark'
                   },
                   red:{
-                      logo:  'http://shop.meilishuo.com/shop/static/img/common/logo_red.png',
+                      logo:  '/example/image/logo_red.png',
                       css:'theme-red'
                   }
               },
